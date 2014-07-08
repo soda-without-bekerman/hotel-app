@@ -5,7 +5,8 @@
   "dependencies": {
     "union": "0.3.0",
     "flatiron": "0.2.8",
-    "swig":  "*"
+    "swig":  "*",
+    "serve-static" : "*"
   },
   "devDependencies": {
     "api-easy": "0.3.2",

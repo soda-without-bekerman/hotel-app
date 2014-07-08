@@ -7,6 +7,9 @@ app.use flatiron.plugins.http
 fs = require "fs"
 swig = require "swig"
 
+serveStatic = require "serve-static"
+
+app.http.before.push serveStatic "public", "index": ["index.html"] 
 
 app.router.get "/", ->
 
