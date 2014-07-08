@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/reset.css"/>
       <link rel="stylesheet" href="css/ui.css"/>
 
-  </head>
+ </head>
   <body>
     <div class="page">
       <div class="cont">
@@ -27,5 +27,3 @@
       </div>
   </body>
 </html>
-
-
