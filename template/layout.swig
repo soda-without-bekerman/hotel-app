@@ -18,10 +18,12 @@
     <div class="page">
       <div class="cont">
 	<div class="head">
-	  header
+	  <div class="logo">Dubna</div>
+          <div class="soda">Soda Labs</div>
+	  <div class="time">21:00</div>
 	</div>
 	<div class="menu">
-	  menu content
+	  <div class="ch">Chec in</div>
 	</div>
 	</div>
       <div class="bg">
