@@ -9,6 +9,7 @@
    
 
     <link rel="stylesheet" href="css/index.css"/>
+    <link rel="stylesheet" href="css/font-awesome.css"/>
 
     <link rel="stylesheet" href="css/ui.css"/>
 
@@ -23,7 +24,7 @@
 	  <div class="time">21:00</div>
 	</div>
 	<div class="menu">
-	  <div class="ch">Check in</div>
+	  <span class="fa fa-map-marker"> </span>
 	</div>
 	</div>
       <div class="bg">

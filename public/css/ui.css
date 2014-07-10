@@ -13,17 +13,24 @@
       .head {
       width: 100%;
       z-index: 1;
+      color: white;
+      background-color: rgba(0,0,0, 0.1);
 }
       .menu {
-
+        text-align: center;
+        font-size: 500%;  
+        position: absolute;
+        bottom: 2em;
+        width: 100%;
 }
       .bg {
       top: 0;
       left: 0;
       background: url(images/Warrenpoint_red_sky.jpg);
-      background-position: center;
+      background-position: center center;
       background-repeat: no-repeat;
-      background-size: contain; 
+      background-size: cover;
+      background-attachment: fixed; 
       position: absolute;
       z-index: 0;
       width: 100%;
