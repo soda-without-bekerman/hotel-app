@@ -23,7 +23,7 @@
 	  <div class="time">21:00</div>
 	</div>
 	<div class="menu">
-	  <div class="ch">Chec in</div>
+	  <div class="ch">Check in</div>
 	</div>
 	</div>
       <div class="bg">

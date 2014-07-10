@@ -12,6 +12,7 @@
 }
       .head {
       width: 100%;
+      z-index: 1;
 }
       .menu {
 
@@ -20,6 +21,9 @@
       top: 0;
       left: 0;
       background: url(images/Warrenpoint_red_sky.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain; 
       position: absolute;
       z-index: 0;
       width: 100%;
