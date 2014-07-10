@@ -15,13 +15,14 @@
       z-index: 1;
       color: white;
       background-color: rgba(0,0,0, 0.1);
-}
+}	
       .menu {
         text-align: center;
         font-size: 500%;  
         position: absolute;
         bottom: 2em;
         width: 100%;
+	color: white;
 }
       .bg {
       top: 0;
@@ -35,6 +36,7 @@
       z-index: 0;
       width: 100%;
       height: 100vh;
+      display: none;
       }
 
       .logo {
@@ -56,8 +58,37 @@
       }
 
       .ch {
-      width: 100%
+      width: 100%;
       height: 9em;
       font-size: 5em;
       text-align: center;
       }
+
+      .temp {
+      width: 100%;
+      height: 1em;
+      font-size: 2em;
+      color: white;
+      }
+
+      .temp2 {
+      width: 100%;
+      height: 2em;
+      font-size: 2em;
+      color: white;
+      }
+
+      .text {
+      width: 100%;
+      height: 7em;
+      position: absolute;
+      box-sizing: border-box;
+      font-size: 30%; 
+      background-color: grey;
+      overflow: scroll;
+      }
+
+      .lock {
+      width: 100%;
+      position: relative;
+      

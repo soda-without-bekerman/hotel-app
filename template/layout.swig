@@ -19,15 +19,24 @@
     <div class="page">
       <div class="cont">
 	<div class="head">
+
+	  <div class="lock"> </div>
+	  <span class="fa fa-lock"> </span>
+
+
+
 	  <div class="logo">Dubna</div>
           <div class="soda">Soda Labs</div>
 	  <div class="time">21:00</div>
 	</div>
+	<div class="temp">23°C</div>
+	<div class="temp2">≈27°C</div>
 	<div class="menu">
+	   <div class="text">{% include "template/text/Alusta.swig" %}</div>  
 	  <span class="fa fa-map-marker"> </span>
 	</div>
 	</div>
-      <div class="bg">
+      <div class="bg">  
 	</div>
       </div>
   </body>
