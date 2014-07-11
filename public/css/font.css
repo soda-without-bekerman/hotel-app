@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Satellite';
+  src: url('../fonts/Satellite.eot?v=4.1.0');
+  src: url('../fonts/Satellite.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('../fonts/Satellite.woff?v=4.1.0') format('woff'), url('../fonts/Satellite.ttf?v=4.1.0') format('truetype'), url('../fonts/Satellite.svg?v=4.1.0#fontawesomeregular');
+  font-weight: normal;
+  font-style: normal;
+}
