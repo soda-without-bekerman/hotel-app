@@ -22,4 +22,4 @@
 
 ### Проделанные не запланированные задачи
 
-  - Уставленны Font`s ```Satellite``` и ```fontawesome```
+  - Уставленны Fonts  ```Satellite``` и ```fontawesome```
