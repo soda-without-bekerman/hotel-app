@@ -19,3 +19,7 @@
 |    @DmitryShiukaev   |    V1    |        Завершена         |               ---             |
 |    @ArtemVakalo      |    V2    |        Начальная         |               ---             |
 |    @NikitaGolub      |    V3    |        Начальная         |               ---             |
+
+### Проделанные незапланированные задачи
+
+  - Уставленны Font`s ```Satellite``` и ```fontawesome```
