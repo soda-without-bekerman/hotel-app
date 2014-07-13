@@ -14,12 +14,14 @@
 
 ### Разработка шаблонов мобилього приложения
 
-|                     Разработчики                    |Версия| Стидия разработки | Окончательный выбор obbil-app |
-|:---------------------------------------------------:|:----:|:-----------------:|:-----------------------------:|
-|[@DmitryShiukaev](https://github.com/DmitryShiukaev) |  V1  |     Завершена     |                ---            |
-|[@ArtemVakalo](https://github.com/ArtemVakalo)       |  V2  |     Начальная     |                ---            |
-|[@NikitaGolub](https://github.com/NikitaGolub)       |  V3  |     Начальная     |                ---            |
+|                     Разработчики                       |Версия| Стидия разработки | Окончательный выбор obbil-app |
+|:------------------------------------------------------:|:----:|:-----------------:|:-----------------------------:|
+|[@DmitryShiukaev](https://github.com/DmitryShiukaev)    |  V1  |     Завершена     |                ---            |
+|[@RuslanPlotnikov](https://github.com/RuslanPlotnikov)  |  V2  |     Начальная     |                ---            |
+|[@BogdanNemirivich](https://github.com/BogdanNemirovich)|  V2  |     Начальная     |                ---            |
+|[@NikitaGolub](https://github.com/NikitaGolub)          |  V3  |     Начальная     |                ---            |
 
 ### Проделанные не запланированные задачи
 
   - Уставленны Fonts  ```Satellite``` и ```fontawesome```
+  - Подключена библиотека ```Zepto.js```
