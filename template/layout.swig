@@ -12,6 +12,9 @@
     <link rel="stylesheet" href="css/font-awesome.css"/>
     <link rel="stylesheet" href="css/font.css"/>
     <link rel="stylesheet" href="css/ui.css"/>
+    <script src="/js/zepto.js"></script>
+    <script src="/js/time.js"></script>
+
 
 
   </head>
@@ -26,8 +29,8 @@
 	  
 	 
 	  <div class="logo">DUBNA</div>
-          <div class="soda">Soda Labs</div>
-	  <div class="time">21:00</div>
+       	  <div class="time">21:00</div>
+	  <div class="soda">Soda Labs</div>
 	</div>
 	<div class="temp">
 	  23°C
@@ -43,6 +46,7 @@
       <div class="bg">  
 	</div>
       </div>
+
   </body>
 </html>
 
