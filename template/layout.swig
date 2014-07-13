@@ -29,15 +29,15 @@
 	  
 	 
 	  <div class="logo">DUBNA</div>
-       	  <div class="time">21:00</div>
-	  <div class="soda">Soda Labs</div>
+       	  <div class="time"></div>
+	  <div class="soda">SODA LABS</div>
 	</div>
 	<div class="temp">
 	  23°C
           <br>
 	  ≈27°C</div>
 	<div class="menu">  
-	   <div class="fa fa-map-marker"> </div>
+	   <div class="fa fa-map-marker do-checkin"> </div>
 	</div>
 	</div>
 
