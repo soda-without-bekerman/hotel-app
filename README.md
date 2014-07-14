@@ -1,4 +1,4 @@
-dubna-app
+HOTEL-app
 =========
 
 Dubna Mobile Application
