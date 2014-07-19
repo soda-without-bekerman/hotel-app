@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/font.css"/>
     <link rel="stylesheet" href="css/ui.css"/>
     <script src="/js/zepto.js"></script>
-    <script src="/js/time.js"></script>
+    <script src="/js/index.js"></script>
 
 
 
@@ -40,9 +40,7 @@
 	   <div class="fa fa-map-marker do-checkin"> </div>
 	</div>
 	</div>
-
-      <div class="text">{% include "template/text/Alusta.swig" %}
-	</div>
+     	</div>
       <div class="bg">  
 	</div>
       </div>
