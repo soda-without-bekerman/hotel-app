@@ -20,6 +20,12 @@ Dubna Mobile Application
 
 > Вы сможете следить за жизнью пансионата через приложение.
 
+
+
+### Подкючение [голокации](https://github.com/soda-io/dubna-app/blob/master/geolocation.md)
+
+
+
 # == Timeline ==
 
 |  Дата  |Состояние|  ToDo                                         |
