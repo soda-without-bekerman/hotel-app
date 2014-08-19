@@ -22,7 +22,7 @@ Dubna Mobile Application
 
 
 
-### Подкючение [голокации](https://github.com/soda-io/dubna-app/blob/master/geolocation.md)
+### Подкючение [геолокации](geolocation.md)
 
 
 
